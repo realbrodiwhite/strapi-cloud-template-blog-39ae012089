@@ -14,8 +14,6 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
-    "strapi-chatgpt": "^1.0.2",
-    "strapi-plugin-preview-button": "^0.0.0",
     "strapi-plugin-todo": "^0.0.10",
     "styled-components": "5.3.3"
   },
